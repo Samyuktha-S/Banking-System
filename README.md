@@ -1,5 +1,4 @@
-# Banking System using Angular, Spring Boot and MySql
-
+# Banking System 
 ## Introduction
 
 This project helps us to understand the basic working of Bank accounts. Some of the functionalities implemented are
